@@ -101,8 +101,7 @@ Projeto em desenvolvimento.
 
 ## Próximas melhorias
 
-- Aprimorar os relatórios por período;
-- Adicionar mais filtros de consulta;
+- Aprimorar os relatórios por período;- Adicionar mais filtros de consulta;
 - Integrar completamente o front-end à API;
 - Adicionar imagens demonstrativas;
 - Preparar a aplicação para implantação.
