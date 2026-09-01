@@ -89,11 +89,6 @@ Também é possível abrir o projeto no IntelliJ IDEA e executar a classe `JlGes
 
 As imagens da interface serão adicionadas conforme o desenvolvimento do sistema.
 
-<!--
-Exemplo para adicionar uma imagem:
-
-![Dashboard do JL Gestão](docs/images/dashboard.png)
--->
 
 ## Status
 
@@ -106,6 +101,28 @@ Projeto em desenvolvimento.
 - Adicionar imagens demonstrativas;
 - Preparar a aplicação para implantação.
 
+
+## Imagens do projeto
+
+### Dashboard
+
+![Dashboard do JL Gestão](docs/images/dashboard.png)
+
+### Entradas
+
+![Tela de entradas](docs/images/entradas.png)
+
+### Despesas
+
+![Tela de despesas](docs/images/despesas.png)
+
+### Categorias
+
+![Tela de categorias](docs/images/categorias.png)
+
+### Relatórios
+
+![Tela de relatórios](docs/images/relatorios.png)
 ## Autora
 
 Desenvolvido por **Vitoria Fernandes**.
