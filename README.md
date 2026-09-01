@@ -68,7 +68,7 @@ As credenciais reais não devem ser adicionadas ao repositório.
 Clone o repositório:
 
 ```bash
-git clone COLOQUE_AQUI_O_LINK_DO_REPOSITORIO
+git clone https://github.com/mviisday/jl-gestao
 ```
 
 Entre na pasta:
@@ -109,4 +109,4 @@ Projeto em desenvolvimento.
 
 ## Autora
 
-Desenvolvido por **Vitória**.
+Desenvolvido por **Vitoria Fernandes**.
